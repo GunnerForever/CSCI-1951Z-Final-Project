@@ -1,6 +1,6 @@
 # CSCI-1951Z-Final-Project
 
-### This is the repository that contains code and datasets used in the final project of CSCI 1951Z class. <br>
+### This is the repository that contains code and datasets used in the final project of CSCI 1951Z. <br>
 ### The repository has the following structure:
 
 **Directories** 
@@ -14,7 +14,7 @@
 - resume_without_bias/candidate_result.csv: This file contains candidate evaluator output for resume_with_score.csv. <br> <br>
 - resume_with_bias/authorization_bias: This directory contains the datasets with work authorization biases and API results.
 - resume_with_bias/disability_bias: This directory contains the datasets with disability status biases and API results.
-- resume_wiht_bias/ethnicity_bias: This directory contains the datasets with ethnicity biases and API results.
+- resume_with_bias/ethnicity_bias: This directory contains the datasets with ethnicity biases and API results.
 - resume_with_bias/gender_bias: This directory contains the datasets with gender biases and API results.
 - resume_with_bias/veteran_bias: This directory contains the datasets with veteran status biases and API results. <br> <br>
 
