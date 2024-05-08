@@ -20,4 +20,7 @@
 
 - generate_data.ipynb: This Jupyter Notebook contains the code that was used to generate all the datasets (original & biased).
 - merge_resume_score.ipynb: This Jupyter Notebook contains the code that was used to merge resume scores output from the API to the features set to form input to the candidate evaluator API.
-- analysis_bias.ipynb: This Jupyter Notebook contains the code for the analyses we did, including calculations of various metrics and plots.
+- analysis_bias.ipynb: This Jupyter Notebook contains the code for the analyses we did, including calculations of various metrics and plots. <br> <br>
+
+- report/audit_report.pdf: This is the final auditing report for this project.
+- report/correlation.png: This is a plot used in the auditing report.
